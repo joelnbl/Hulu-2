@@ -8,8 +8,8 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu by Anmol Sethi</title>
-        <meta name="description" content="hulu app built by Anmol Sethi" />
+        <title>Hulu</title>
+        <meta name="description" content="hulu app" />
         <meta
           name="keywords"
           content="disney plus, disney premium, netflix, hulu, online movies, movie streaming"
